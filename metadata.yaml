@@ -1,0 +1,29 @@
+_repo: Within-Prison-Walls--13-being-a-narrative-during-a-week-of-voluntary-confinement-in-the-state__33255
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33255-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Osborne, Thomas Mott
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '36290'
+    url: http://www.gutenberg.org/2009/agents/36290
+description: ''
+gutenberg_issued: '2010-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Auburn Prison'
+- !lcsh 'Prisons -- New York (State)'
+- !lcsh 'Prisoners -- New York (State)'
+- !lcc 'HV'
+title: "Within Prison Walls\r\nbeing a narrative during a week of voluntary confinement\
+  \ in the state prison at Auburn, New York"
+url: http://www.gutenberg.org/ebooks/33255
